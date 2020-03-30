@@ -1,0 +1,111 @@
+body{background-image:url("montuu.jpg" );
+	
+
+	
+	background-attachment:fixed; 
+	
+	
+	
+	
+}
+
+
+	
+	
+
+
+.si{color:white;
+	
+	
+	
+}
+
+
+.grad2 {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet); 
+}
+
+	
+	
+
+
+	.kk{ background-color:red; display:inline;text-align:center;margin-left:10px;border: 5px #ECF0F1 groove; width:50px; padding:20px; }
+	
+	.kk2{ background-color:red; display:inline;text-align:center;margin-left:900px;border: 5px #ECF0F1 groove; width:50px; padding:20px; }
+	
+	
+	
+	
+.ee{ background-color:red; display:inline; text-align:center; margin-left:10px; border: 5px #ECF0F1 groove; float:right;}
+
+.ef{ background-color:red; display:inline; text-align:center; margin-left:10px; border: 5px #ECF0F1 groove;  float:right;}
+
+.eg{ background-color:red; display:inline; text-align:center; margin-left:10px; border: 5px #ECF0F1 groove;  float:right;}
+
+.eh{ background-color:red; display:inline; text-align:center; margin-left:10px; border: 5px #ECF0F1 groove;  float:right;}
+
+
+span{
+
+	
+}
+
+	
+	
+.nav-menu {margin-left:10px;   }
+
+.li{font-size:20px; 
+	
+	
+}
+
+.li2{ text-align:right;  font-size:20px; 
+	
+}
+
+.bb{display:inline; margin-top:500px;
+	
+	
+}
+
+              
+.nav-menu ul{   }
+.nav-menu ul li {                     
+
+       list-style-type:none; margin:20px; float:left; margin-left:80px; 
+
+
+
+               }
+.nav-menu ul li a{  text-decoration:none; font-size:25px; color:white;   ; border: 4px #ECF0F1 groove;               }
+
+.nav-menu ul li a:hover{ text-decoration:underline;
+
+  }
+
+.hk{
+	
+text-align:center;  ; color:white; letter-spacing:20px; text-shadow: 2px 2px #74B1B9 ; width:800; margin-left:370px;border-radius:20px;border: 5px #ECF0F1 groove;  	  } 
+
+
+.hh{
+	 text-align:center; border: 5px #ECF0F1 groove;  color:white; letter-spacing:20px; text-shadow: 3px 3px #74B1B;
+	float:LEFT; padding-left:10px;margin-left:10px; border: 5px #ECF0F1 groove;text-shadow: 3px 3px #1E2745 ; margin-top:20px; margin-bottom:80px;
+	
+}	
+
+.hz{
+	text-align:center;  color:white;
+	letter-spacing:20px; padding-left:10px; text-shadow: 3px 3px #ECF0F1; float:right; margin-right:10px;text-shadow: 3px 3px #1E2745 ;  
+	  border: 5px #ECF0F1 groove; margin-top:10px;us:20px;
+	
+}	
+
+	
+
+#clear-div{ clear:both;
+}
+
+
